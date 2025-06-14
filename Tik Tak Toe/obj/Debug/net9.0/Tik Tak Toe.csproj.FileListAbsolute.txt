@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\bin\Debug\net9.0\Tik Tak Toe.exe
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\bin\Debug\net9.0\Tik Tak Toe.deps.json
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\bin\Debug\net9.0\Tik Tak Toe.runtimeconfig.json
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\bin\Debug\net9.0\Tik Tak Toe.dll
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\bin\Debug\net9.0\Tik Tak Toe.pdb
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.dll
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\refint\Tik Tak Toe.dll
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.pdb
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\Tik Tak Toe.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Desktop\Coding\CsharpProjects\Games\Tik Tak Toe\obj\Debug\net9.0\ref\Tik Tak Toe.dll
